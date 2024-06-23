@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is DanlyRuiz  🦦<br>I am from Colombia <br>I am a Software Developer student ✨<br>I like bees and cats 🐝🐈</p>
+<p align="left">My name is Daniel Ramirez  🦦<br>I am from Colombia <br>I am a Software Developer student ✨<br>I like bees and cats 🐝🐈</p>
 
 ###
 
