@@ -4,6 +4,9 @@
 
 ###
 
+>[!NOTE]
+>Esto es una nota?
+
 <p align="left">I am from Colombia <br>I am a Software Developer student ✨</p>
 
 ###
